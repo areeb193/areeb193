@@ -98,15 +98,7 @@ As a Full-Stack Software Engineer with a strong inclination towards DevOps, I th
   <img src="https://ghchart.rshah.org/areeb193" />
 </p>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section with your latest activity -->
-- 🗣️ Commented on a pull request in [ORG/REPO_NAME](https://github.com/ORG/REPO_NAME/pull/XXX)
-- 🎉 Merged pull request [#YYY](https://github.com/ORG/REPO_NAME/pull/YYY) in [ORG/REPO_NAME](https://github.com/ORG/REPO_NAME)
-- 🚀 Created 3 commits in [ORG/REPO_NAME](https://github.com/ORG/REPO_NAME)
-<!--END_SECTION:activity-->
 
----
 ## 🏗️ Contribution Highlights & Project Showcase
 
 Here are some real-world projects that reflect my practical experience and problem-solving approach.
