@@ -19,12 +19,14 @@
 - 💬 Ask me about: **MERN Stack development, Cloud architecture (Azure/AWS), Docker, Kubernetes, and GitHub Actions.** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I can debug an entire application just by looking at its deployment logs!** <!-- TODO: Add a fun fact -->
 
-## 📈 My 2024 Goals
+## 📈 My 2026 Goals
 
-- 🚀 Contribute to 5+ significant open source projects, focusing on DevOps tools.
-- 📚 Achieve an Azure Solutions Architect Expert certification.
-- 🌟 Mentor junior developers in MERN stack and cloud deployment best practices.
-- 📝 Write 3+ technical blog posts on CI/CD automation and containerization.
+- 🚀 Grow my own **software & AI solutions agency**, delivering high-quality projects to clients.  
+- ☁️ **Deploy and maintain 3+ full-stack applications** on Azure, ensuring scalability, security, and reliability.  
+- 🤖 Integrate **AI/ML solutions** into projects for smarter automation and analytics.  
+- 🌟 Mentor junior developers in **MERN stack, cloud architecture, and DevOps best practices**.  
+- 📝 Publish **technical blogs/tutorials** on cloud deployment, AI integration, and modern development workflows.  
+- 💡 Explore and implement **cutting-edge DevOps & CI/CD pipelines** for client and personal projects.  
 
 ---
 
