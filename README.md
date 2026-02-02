@@ -102,6 +102,84 @@ Here are some real-world projects that reflect my practical experience and probl
 
 ---
 
+### 🏃‍♂️ Stride Zone - Fitness Tracking Application
+
+**Tech Stack:** React Native • Expo • TypeScript • NativeWind • Axios • ExerciseDB API  
+**Type:** Mobile Application (Cross-Platform)
+
+A comprehensive fitness and workout tracking application that helps users discover exercises, calculate BMI, track their fitness journey, and maintain a healthy lifestyle.
+
+- Exercise database with 1300+ exercises and animations
+- Browse exercises by body parts (chest, back, arms, legs, shoulders)
+- Detailed exercise instructions with target muscles and equipment
+- Integrated BMI calculator with health tracking
+- Beautiful, responsive UI with smooth animations
+- Cross-platform support (iOS, Android, Web)
+- Real-time API integration with ExerciseDB
+
+**Repository:** [Workout-app-React-Native-](https://github.com/areeb193/Workout-app-React-Native-)
+
+---
+
+### 📈 M.A. Traders - Global Trade & Investment Platform
+
+**Tech Stack:** Next.js 14 • React • TypeScript • MongoDB • Node.js • Tailwind CSS • Docker  
+**Type:** Full-Stack Production Platform
+
+A comprehensive digital platform designed to streamline global trade operations and electrical services management, combining e-commerce functionality with service management.
+
+- E-commerce system with product catalog and inventory management
+- Secure JWT-based authentication and role-based access control
+- Admin dashboard for order processing and product management
+- Electrical services portfolio (Solar, CCTV, AC Installation)
+- Real-time inventory tracking and shopping cart
+- Docker-ready deployment with complete CI/CD
+- RESTful API with Next.js API routes
+- Advanced filtering and search capabilities
+
+**Repository:** [matraders-backend](https://github.com/areeb193/matraders-backend)
+
+---
+
+### 🎓 INTERNFLOW - Internship & Job Portal
+
+**Tech Stack:** React • Node.js • Express • MongoDB • Socket.IO • Redux Toolkit • Tailwind CSS  
+**Type:** Full-Stack Web Application
+
+A modern internship and job portal platform connecting students and job seekers with employers, featuring real-time chat and intelligent application tracking.
+
+- Smart job discovery with advanced filtering (category, location, type)
+- Real-time chat system using Socket.IO for recruiter-applicant communication
+- Application tracking dashboard with status updates
+- Company profile pages with job listings
+- Secure authentication with JWT and bcrypt
+- Admin dashboard for recruiters to manage postings
+- Cloud-based media storage with Cloudinary
+- Fully responsive design with dark mode support
+
+**Repository:** [INTERNFLOW](https://github.com/areeb193/INTERNFLOW)
+
+---
+
+### 🤖 JOBLens AI - AI-Powered Resume Analyzer
+
+**Tech Stack:** React • TypeScript • Tailwind CSS • Puter.js • Zustand • Vite  
+**Type:** AI-Powered Web Application
+
+An intelligent resume analysis tool that provides ATS scores and job-specific feedback to help job seekers optimize their resumes for better opportunities.
+
+- AI-based resume analysis and scoring
+- ATS (Applicant Tracking System) compatibility checking
+- Job description-specific feedback and suggestions
+- Resume parsing and text extraction
+- Clean, modern user interface
+- Fast performance with Vite bundling
+- State management with Zustand
+
+**Repository:** [JobLensAI](https://github.com/areeb193/JobLensAI)
+
+---
+
 ### 🧾 Digital Invoicing System (FBR-Compliant)
 
 **Tech Stack:** React • Node.js • Express • JWT • FBR APIs  
